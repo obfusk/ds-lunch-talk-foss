@@ -29,14 +29,14 @@
   cases.
 
   [Radboud University Digital Security Colloquium Lunch
-  Talk](https://sos.cs.ru.nl/colloquium/index.html)
+  Talk](https://www.sos.cs.ru.nl/colloquium/index.html)
 
   Made w/ [remark](http://remarkjs.com).
 
 ## Licence
 
   * Text: CC BY-SA [1].
-  * Images: from wikipedia [2].
+  * Images: from wikipedia [2] and elsewhere [3].
 
 ## References
 []: {{{1
@@ -47,8 +47,16 @@
 
 ### Images from Wikipedia [2]
 
+  * https://commons.wikimedia.org/wiki/File:Apache_Software_Foundation_Logo_(2016).svg
+  * https://commons.wikimedia.org/wiki/File:GPLv3_Logo.svg
+  * https://commons.wikimedia.org/wiki/File:Richard_Stallman_-_F%C3%AAte_de_l%27Humanit%C3%A9_2014_-_010.jpg
+  * https://en.wikipedia.org/wiki/File:Copyleft.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
-  * ...
+
+### Other Images [3]
+
+  * Xerox 9700 from
+    http://archive.computerhistory.org/resources/access/text/2010/05/102710872-05-07-acc.pdf
 
 []: }}}1
 
