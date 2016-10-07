@@ -2,7 +2,7 @@
 
     File        : README.md
     Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-    Date        : 2016-10-06
+    Date        : 2016-10-07
 
     Copyright   : Copyright (C) 2016  Felix C. Stegerman
 
@@ -57,6 +57,7 @@
 
   * Xerox 9700 from
     http://archive.computerhistory.org/resources/access/text/2010/05/102710872-05-07-acc.pdf
+  * https://www.t-dose.org/sites/www.t-dose.org/themes/punk/logo.png
 
 []: }}}1
 
